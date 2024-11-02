@@ -1,2 +1,3 @@
 # XBox-electrifier
-XBox Client of electrifier
+
+electrifier for XBox
